@@ -1,0 +1,2 @@
+# JavaClassTelusko
+Assignments
